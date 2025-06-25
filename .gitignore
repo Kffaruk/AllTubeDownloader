@@ -1,0 +1,30 @@
+__pycache__/
+*.pyc
+*.pyo
+*.log
+*.spec
+*.tmp
+*.bak
+*.swp
+
+build/
+dist/
+output/
+
+.env
+*.env
+venv/
+env/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# Exclude all EXE files except the main ones
+*.exe
+!dist/AllTubeDownloader.exe
+!output/AllTubeDownloaderSetup.exe
