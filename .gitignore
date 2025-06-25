@@ -1,30 +1,16 @@
+# Python cache and temp files
 __pycache__/
 *.pyc
 *.pyo
 *.log
-*.spec
 *.tmp
-*.bak
-*.swp
 
-build/
+# Ignore dist & output folders, except for the final .exe files
 dist/
 output/
-
-.env
-*.env
-venv/
-env/
-
-# OS files
-.DS_Store
-Thumbs.db
-
-# IDE files
-.vscode/
-.idea/
-
-# Exclude all EXE files except the main ones
-*.exe
 !dist/AllTubeDownloader.exe
 !output/AllTubeDownloaderSetup.exe
+
+# Ignore user config and history files (optional)
+download_history.json
+user_config.json
