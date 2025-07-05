@@ -7,7 +7,22 @@ AllTube Downloader is a powerful and easy-to-use YouTube video downloader with a
 ## 🎯 Features
 
 
-##Supports:
+- **GUI based** YouTube video downloader
+- **Choose quality**: 360p, 480p, 720p, 1080p
+- **Playlist support**: Download entire playlist
+- **Dark mode** interface for modern look
+- **Progress bar** with real-time download updates
+- **Download history** saved as JSON file
+- **No console needed** — simple for non-technical users
+
+
+
+
+
+
+
+
+## Supports:
 - ✅ HD Video (1080p, 720p, 480p, 360p)
 - ✅ Playlist Downloads
 - ✅ Visual Progress Bar
