@@ -1,6 +1,7 @@
 # AllTube Downloader
 
 AllTube Downloader is a powerful and easy-to-use YouTube video downloader with a graphical user interface built in Python using Tkinter and `yt-dlp`.
+<img width="701" height="547" alt="Screenshot_8" src="https://github.com/user-attachments/assets/6fd2650e-f680-476e-bc9d-64439de54a9b" />
 
 ---
 
